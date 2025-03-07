@@ -78,6 +78,7 @@ User Interface Enhancements:
 
 Added a homepage with an image.
 Created a navigation menu for better user experience.
+
 🚀 Results & Future Enhancements
 
 ✅ The model provides accurate crop recommendations based on soil and weather data.
