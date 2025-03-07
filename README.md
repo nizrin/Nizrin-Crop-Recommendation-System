@@ -14,17 +14,24 @@ IDE & Environment: PyCharm, Google Colab
 Libraries & Packages:
 
 numpy – For numerical operations
+
 pandas – For data handling and preprocessing
+
 scikit-learn – For machine learning model training
+
 streamlit – For building an interactive web application
+
 matplotlib & seaborn – For data visualization
+
 pickle – For model serialization and deployment
 
 📊 Dataset Details
 
 The dataset consists of various soil nutrients (N, P, K), temperature, humidity, pH level, and rainfall.
 The target variable is the recommended crop based on these parameters.
+
 🧠 Machine Learning Model Used
+
 The project uses a Random Forest Classifier, which is an ensemble learning method.
 
 Why Random Forest?
