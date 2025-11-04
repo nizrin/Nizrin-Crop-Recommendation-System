@@ -91,7 +91,7 @@ Integrating real-time weather data.
 
 Expanding the dataset for better generalization.
 
-Implementing a mobile-friendly version.
+Implementing a mobile-friendly version..
 
 
 ![Screenshot (7)](https://github.com/user-attachments/assets/117c765e-0dc1-446d-af69-7aa94e1e95b7)
